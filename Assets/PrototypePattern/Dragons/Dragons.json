@@ -1,0 +1,52 @@
+{
+  "dragons": [
+    {
+      "name": "FatDragon",
+      "scale": {
+        "x": 4,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "TallDragon",
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 3
+      }
+    },
+    {
+      "name": "LongDragon",
+      "scale": {
+        "x": 1,
+        "y": 4,
+        "z": 1
+      }
+    },
+    {
+      "name": "Dragon",
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "LittleDragon",
+      "scale": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      }
+    },
+    {
+      "name": "HugeDragon",
+      "scale": {
+        "x": 3,
+        "y": 3,
+        "z": 3
+      }
+    }
+  ]
+}
